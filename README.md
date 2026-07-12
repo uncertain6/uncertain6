@@ -1,16 +1,9 @@
-# Hey, I'm Yuqi 👋
+## Hello, there
+# I'm Yuqi 👋
 
-studying CS, philosophy, and stats at UTM (University of Toronto Mississauga).
+CS, philosophy & stats @ UTM.
 
-honestly still figuring out what I want to specialize in, so I just build random stuff to learn — some web dev, some Python, whatever seems interesting that week.
+- 🌐 [uncertain6.com](https://www.uncertain6.com)
+- 💼 [linkedin](https://www.linkedin.com/in/yuqiliu07)
 
-links
-
-
-portfolio → uncertain6.com
-linkedin → yuqiliu07
-
-
-right now
-
-poking around my repos, learning as I go. feel free to look around or reach out if you're into CS or philosophy too.
+thanks for stopping by ;-)
