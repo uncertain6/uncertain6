@@ -1,9 +1,16 @@
 # Hey, I'm Yuqi 👋
 
-I'm a student at the University of Toronto Mississauga with interests in philosophy, computer science, and technology. I enjoy programming, web development, and building projects that help me learn new skills. I'm always looking for new things to learn and create.
+studying CS, philosophy, and stats at UTM (University of Toronto Mississauga).
 
-### You can find me here
+honestly still figuring out what I want to specialize in, so I just build random stuff to learn — some web dev, some Python, whatever seems interesting that week.
 
-🌐 Portfolio: https://www.uncertain6.com
+links
 
-💼 LinkedIn: https://www.linkedin.com/in/yuqiliu07
+
+portfolio → uncertain6.com
+linkedin → yuqiliu07
+
+
+right now
+
+poking around my repos, learning as I go. feel free to look around or reach out if you're into CS or philosophy too.
