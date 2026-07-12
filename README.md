@@ -1,5 +1,5 @@
-## Hello, there
-# I'm Yuqi 👋
+# Hello, there
+## I'm Yuqi 👋
 
 CS, philosophy & stats @ UTM.
 
