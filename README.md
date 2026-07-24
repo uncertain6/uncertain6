@@ -1,6 +1,6 @@
 # Hello there, I'm Yuqi ;-)
 
-## ∃x(Hx ∧ Mx ∧ Sx ∧ Ux ∧ Nx,y → Lx,z ∧ Px,w)
+## ∃x(Hx ∧ Mx ∧ Sx ∧ Ux ∧ Nxy → Lxz ∧ Pxw)
 
 H: {1} is a human.  <br>
 M: {1} is a male.  <br>
