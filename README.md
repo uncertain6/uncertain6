@@ -1,15 +1,32 @@
-# Hello there, I'm Yuqi ;-)
+<h1 align="center">Hello there, I'm Yuqi ;-)</h1>
 
-## ∃x(Hx ∧ Mx ∧ Sx ∧ Ux ∧ Nxy → Lxz ∧ Pxw)
+<p align="center">
+  <code>∃x∃y∃z∃w (Hx ∧ Mx ∧ Sx ∧ Ux ∧ Nxy ∧ Lxz ∧ Pxw)</code>
+</p>
 
-H: {1} is a human.  <br>
-M: {1} is a male.  <br>
-S: {1} is a student.  <br>
-U: {1} studies at University of Toronto Mississauga (UTM).  <br>
-N: {1}'s name is {2}.  <br>
-L: {1}'s LinkedIn is {2}.  <br>
-P: {1}'s portfolio is {2}.<br>
+<p align="center">
+  <a href="https://linkedin.com/in/yuqiliu07"><img src="https://img.shields.io/badge/LinkedIn-yuqiliu07-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://uncertain6.com"><img src="https://img.shields.io/badge/Portfolio-uncertain6.com-000000?style=flat&logo=firefox&logoColor=white" /></a>
+</p>
 
-y: Yuqi Liu  <br>
-z: [linkedin.com/in/yuqiliu07](https://www.linkedin.com/in/yuqiliu07)  <br>
-w: [uncertain6.com](https://uncertain6.com)
+---
+
+### Predicate legend
+
+| Symbol | Meaning |
+|---|---|
+| `Hx` | x is a human |
+| `Mx` | x is a male |
+| `Sx` | x is a student |
+| `Ux` | x studies at University of Toronto Mississauga (UTM) |
+| `Nxy` | x's name is y |
+| `Lxz` | x's LinkedIn is z |
+| `Pxw` | x's portfolio is w |
+
+### Domain
+
+| Var | Value |
+|---|---|
+| `y` | Yuqi Liu |
+| `z` | [linkedin.com/in/yuqiliu07](https://linkedin.com/in/yuqiliu07) |
+| `w` | [uncertain6.com](https://uncertain6.com) |
