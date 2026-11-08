@@ -1,32 +1,18 @@
 <h1 align="center">Hello there, I'm Yuqi ;-)</h1>
 
 <p align="center">
-  <code>∃x∃y∃z∃w (Hx ∧ Mx ∧ Sx ∧ Ux ∧ Nxy ∧ Lxz ∧ Pxw)</code>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/yuqiliu07"><img src="https://img.shields.io/badge/LinkedIn-yuqiliu07-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://uncertain6.com"><img src="https://img.shields.io/badge/Portfolio-uncertain6.com-000000?style=flat&logo=firefox&logoColor=white" /></a>
+  CS & Statistics student at the University of Toronto Mississauga, learning cybersecurity.
 </p>
 
 ---
 
-### Predicate legend
+### What I'm learning
 
-| Symbol | Meaning |
-|---|---|
-| `Hx` | x is a human |
-| `Mx` | x is a male |
-| `Sx` | x is a student |
-| `Ux` | x studies at University of Toronto Mississauga (UTM) |
-| `Nxy` | x's name is y |
-| `Lxz` | x's LinkedIn is z |
-| `Pxw` | x's portfolio is w |
+- TryHackMe and OverTheWire Bandit
+- Linux, Bash scripting, and networking fundamentals
 
-### Domain
+### What's here
 
-| Var | Value |
-|---|---|
-| `y` | Yuqi Liu |
-| `z` | [linkedin.com/in/yuqiliu07](https://linkedin.com/in/yuqiliu07) |
-| `w` | [uncertain6.com](https://uncertain6.com) |
+- Cybersecurity learning notes and write-ups
+- Bash scripts
+- My personal website
